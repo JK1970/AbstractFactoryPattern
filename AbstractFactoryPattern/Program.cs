@@ -21,11 +21,6 @@ namespace AbstractFactoryPattern
 
             HardDrive gamingLaptopHardDrive = factory.GetHardDrive();
             gamingLaptopHardDrive.GetHardDriveInformation();
-
-            /*  AbstractComputerFactory factory = new PowerPcFactory();
-             factory.GetProcessor();
-             factory.GetRam();
-             factory.GetHardDrive(); */
         }
     }
 }
