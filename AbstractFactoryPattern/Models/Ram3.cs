@@ -1,4 +1,4 @@
-namespace AbstractFactoryPattern.Models
+namespace AbstractFactoryPattern
 {
     internal class Ram3 : Ram
     {
