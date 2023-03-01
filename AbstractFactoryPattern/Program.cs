@@ -1,4 +1,6 @@
-﻿namespace AbstractFactoryPattern
+﻿using AbstractFactoryPattern.Models;
+
+namespace AbstractFactoryPattern
 {
     public class Program
     {

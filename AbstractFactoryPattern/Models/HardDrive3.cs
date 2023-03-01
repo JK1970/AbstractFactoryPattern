@@ -1,4 +1,4 @@
-namespace AbstractFactoryPattern
+namespace AbstractFactoryPattern.Models
 {
     internal class HardDrive3 : HardDrive
     {

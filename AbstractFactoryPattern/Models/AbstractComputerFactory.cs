@@ -1,6 +1,6 @@
-namespace AbstractFactoryPattern
+namespace AbstractFactoryPattern.Models
 {
-    internal abstract class AbstractComputerFactory
+    public abstract class AbstractComputerFactory
     {
         public abstract Processor GetProcessor();
         public abstract Ram GetRam();

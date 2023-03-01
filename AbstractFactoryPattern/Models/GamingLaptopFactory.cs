@@ -1,6 +1,6 @@
-namespace AbstractFactoryPattern
+namespace AbstractFactoryPattern.Models
 {
-    internal class GamingLaptopFactory : AbstractComputerFactory
+    public class GamingLaptopFactory : AbstractComputerFactory
     {
         public override Processor GetProcessor()
         {
