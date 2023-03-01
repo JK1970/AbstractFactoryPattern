@@ -1,4 +1,6 @@
-﻿using AbstractFactoryPattern.Models;
+﻿using AbstractFactoryPattern.AbstractFactory;
+using AbstractFactoryPattern.ConcreteFactory;
+using AbstractFactoryPattern.AbstractHardware;
 
 namespace AbstractFactoryPattern
 {

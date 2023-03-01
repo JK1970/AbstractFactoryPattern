@@ -1,6 +1,6 @@
-using AbstractFactoryPattern.Models;
+using AbstractFactoryPattern.AbstractHardware;
 
-namespace AbstractFactoryPattern
+namespace AbstractFactoryPattern.ConcreteHardware
 {
     internal class HardDrive2 : HardDrive
     {

@@ -1,4 +1,8 @@
-namespace AbstractFactoryPattern.Models
+using AbstractFactoryPattern.AbstractFactory;
+using AbstractFactoryPattern.AbstractHardware;
+using AbstractFactoryPattern.ConcreteHardware;
+
+namespace AbstractFactoryPattern.ConcreteFactory
 {
     public class GamingLaptopFactory : AbstractComputerFactory
     {
